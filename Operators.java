@@ -3,6 +3,8 @@ public class Operators {
         // Assignment operator (=)
         int num1 = 13;
         int num2 = 5;
+		
+		num1 += num2;
 
         // ARITHMETIC OPERATORS (+, *, -, /, %)
         int sum = num1 + num2;
